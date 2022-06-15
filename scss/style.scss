@@ -1,0 +1,20 @@
+@use "custom";
+
+// Import the components
+@use "components/animations";
+@use "components/buttons";
+@use "components/mixins";
+@use "components/typography";
+
+// Import the sections
+@use "sections/navbar";
+@use "sections/about-us";
+@use "sections/landing-page";
+@use "sections/menu-header";
+@use "sections/menu-intro";
+@use "sections/menu-list";
+@use "sections/site-menu";
+@use "sections/booking-header";
+@use "sections/booking-form";
+@use "sections/footer";
+@use "sections/contact";
